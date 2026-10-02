@@ -1,0 +1,12 @@
+{
+  "title": "Telegram Gold Signal Channel Rankings",
+  "id": "KAGGLE_USERNAME/telegram-gold-signal-rankings",
+  "subtitle": "Gold (XAUUSD) Telegram signal channels measured on executed MetaTrader trades",
+  "description": "Monthly snapshots of how Telegram gold signal channels performed on real MetaTrader accounts. Every figure comes from trades TTMT – Telegram to MetaTrader executed for its own users. October 2026: 10 channels ranked across 14,662 closed trades, 47 more listed and not yet ranked. A channel is ranked once it has 100 closed trades and 5 distinct traders. Demo and live accounts are pooled. This is a snapshot; the live table is at https://telegramtometatrader.com/explore/rankings/gold?utm_source=kaggle&utm_medium=owned&utm_campaign=gold-rankings-dataset and the method at https://telegramtometatrader.com/explore/methodology?utm_source=kaggle&utm_medium=owned&utm_campaign=gold-rankings-dataset. Not financial advice. Past results do not predict future results.",
+  "licenses": [{ "name": "CC-BY-4.0" }],
+  "keywords": ["finance", "investing", "currencies and foreign exchange"],
+  "resources": [
+    { "path": "data/2026-10-ranked.csv", "description": "Ranked gold channels, October 2026 snapshot" },
+    { "path": "data/2026-10-listed-not-ranked.csv", "description": "Gold channels below the minimum sample, with closed-trade counts" }
+  ]
+}
