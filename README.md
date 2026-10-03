@@ -1,6 +1,6 @@
 # Telegram gold signal channel rankings
 
-Monthly snapshots of how Telegram gold (XAUUSD) signal channels performed on real MetaTrader accounts. Every figure comes from trades that [TTMT – Telegram to MetaTrader](https://telegramtometatrader.com/?utm_source=github&utm_medium=owned&utm_campaign=gold-rankings-dataset) executed for its own users from each channel's messages. Nothing here is a backtest, a provider screenshot or a self-reported result.
+Monthly snapshots of how Telegram gold (XAUUSD) signal channels performed on real MetaTrader accounts. Every figure comes from trades that [TTMT – Telegram to MetaTrader](https://telegramtometatrader.com/?utm_source=github&utm_medium=owned&utm_campaign=gold-rankings-dataset) executed for its own users from each channel's messages. Nothing here is a backtest, a provider screenshot, or a self-reported result.
 
 **This repository is a snapshot. The [live ranking](https://telegramtometatrader.com/explore/rankings/gold?utm_source=github&utm_medium=owned&utm_campaign=gold-rankings-dataset) is recomputed daily and is the version to cite.** A correction made on the live page reaches this repository only at the next monthly snapshot.
 
@@ -52,7 +52,7 @@ Columns in the ranked file:
 - **Demo and live accounts are pooled.** Demo fills are kinder than live ones. Each channel page splits the two.
 - **A channel is ranked once it has 100 closed trades and 5 distinct traders** in the last 90 days. Below that, one person's run decides the number.
 - **Order** is TTMT score, then profit factor, then the share of traders in profit, then trade count, then alphabetical.
-- **No profit or loss amount is published.** Accounts run different currencies, balances and risk settings, so a pooled figure would describe the followers more than the channel.
+- **No profit or loss amount is published.** Accounts run different currencies, balances, and risk settings, so a pooled figure would describe the followers more than the channel.
 
 The full method is on the [methodology page](https://telegramtometatrader.com/explore/methodology?utm_source=github&utm_medium=owned&utm_campaign=gold-rankings-dataset).
 
@@ -66,7 +66,13 @@ TTMT sells the execution, not the signals. People copying channels is how the co
 
 ## Corrections
 
-If you run a listed channel and something is wrong, message [@ttmtapp](https://t.me/ttmtapp) on Telegram or email support@telegramtometatrader.com. Names, descriptions and access types are fixed on request. Computed figures are not adjusted on request; the disputed number is re-derived from the raw trades.
+If you run a listed channel and something is wrong, message [@ttmtapp](https://t.me/ttmtapp) on Telegram or email support@telegramtometatrader.com. Names, descriptions, and access types are fixed on request. Computed figures are not adjusted on request; the disputed number is re-derived from the raw trades.
+
+## Related
+
+- [Signal Channels, Counted](https://telegramcopytrader.substack.com/p/gold-signal-channels-on-telegram), the monthly write-up of this data
+- [We rank Telegram signal channels, and we make money when you copy them](https://medium.com/@aron.lukacs/we-rank-telegram-signal-channels-and-we-make-money-when-you-copy-them-439ea126fe5b), on the conflict of interest behind the ranking
+- [telegram-signal-format](https://github.com/lukacsaron/telegram-signal-format), how the signals behind these trades are written
 
 ## Citing
 
