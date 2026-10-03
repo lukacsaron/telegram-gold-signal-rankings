@@ -72,6 +72,7 @@ If you run a listed channel and something is wrong, message [@ttmtapp](https://t
 
 - [Signal Channels, Counted](https://telegramcopytrader.substack.com/p/gold-signal-channels-on-telegram), the monthly write-up of this data
 - [We rank Telegram signal channels, and we make money when you copy them](https://medium.com/@aron.lukacs/we-rank-telegram-signal-channels-and-we-make-money-when-you-copy-them-439ea126fe5b), on the conflict of interest behind the ranking
+- [The same data on Kaggle](https://www.kaggle.com/datasets/ronlukcs/telegram-gold-signal-channel-rankings)
 - [telegram-signal-format](https://github.com/lukacsaron/telegram-signal-format), how the signals behind these trades are written
 
 ## Citing
